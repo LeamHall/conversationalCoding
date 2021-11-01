@@ -1,11 +1,20 @@
 # goPracticum
 Skill builders for learning conversational Golang.
 
+## Before you begin
+This assumes you have completed a little Go programming. For example:
+
+	A Tour of Go	https://tour.golang.org/list
+	Exercism		https://exercism.org/tracks/go
+	Learning Go		https://www.amazon.com/dp/1492077216	
+	Introducing Go	https://www.amazon.com/dp/1491941952
+
+
 ## The Theory
 I'm stealing...err...borrowing profusely from human language learning and
 current brain science to help us all code better and learn more. 
 
-When you start learning a foriegn language, human or computer, you sound
+When you start learning a foreign language, human or computer, you sound
 like an idiot. Benny Lewis, a famous polyglot, describes this as talking
 like "Tarzan". Very basic words and really bad grammar. 
 
@@ -39,7 +48,7 @@ key skills into the sub-conscious in a week?
 
 ## The Method
 
-Start with foundation.go. Copy the file to a temp directory, and follow the 
+Start with Foundations. Create your file in a temp directory, and follow the 
 instructions. Do each task without referencing a Stack, IRC, or anything else.
 Just your mind; your skills. Do the entire exercise before correcting anything.
 Keep trying to run it; keep going until it works. If you get all the way
