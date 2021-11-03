@@ -1,8 +1,9 @@
 # Foundations
 
-Package Foundation focuses on the foundational tasks of the language;
+The Foundation section focuses on the foundational tasks of the language;
 the building blocks. This is the one you should start with, and stick with,
-until you can do it fluently.
+until you can do it fluently. When you're up to 80%, move on to the next
+task, but keep doing this one every couple of days until you have it right.
 
 Open your heart and mind to learning. Don't beat yourself up if
 you don't do everything perfectly the first time out.
@@ -65,5 +66,8 @@ describe the relationship as the value.
 
 ### Wrap up
 
-Delete this file. If you missed anything, do it again tomorrow.  :)
+Make a copy of the file as is, and then run go fmt on the copy. See what 
+changes.
+
+Delete the files. If you missed more than one thing, do it again tomorrow.  :)
 
