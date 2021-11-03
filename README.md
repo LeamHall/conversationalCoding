@@ -4,10 +4,10 @@ Skill builders for learning conversational Golang.
 ## Before you begin
 This assumes you have completed a little Go programming. For example:
 
-	A Tour of Go	https://tour.golang.org/list
-	Exercism		https://exercism.org/tracks/go
-	Learning Go		https://www.amazon.com/dp/1492077216	
-	Introducing Go	https://www.amazon.com/dp/1491941952
+	A Tour of Go    https://tour.golang.org/list
+	Exercism        https://exercism.org/tracks/go
+	Learning Go     https://www.amazon.com/dp/1492077216
+	Introducing Go  https://www.amazon.com/dp/1491941952
 
 
 ## The Theory
