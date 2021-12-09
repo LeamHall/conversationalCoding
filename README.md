@@ -96,10 +96,10 @@ For example:
 
 ### Go/Golang
 
-	  A Tour of Go        https://tour.golang.org/list
-	  Exercism            https://exercism.org/tracks/go
-	  Learning Go         https://www.amazon.com/dp/1492077216
-	  Introducing Go      https://www.amazon.com/dp/1491941952
+    A Tour of Go        https://tour.golang.org/list
+    Exercism            https://exercism.org/tracks/go
+    Learning Go         https://www.amazon.com/dp/1492077216
+    Introducing Go      https://www.amazon.com/dp/1491941952
     Programming with Google Go Specialization
       https://www.coursera.org/specializations/google-golang
 
