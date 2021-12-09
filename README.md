@@ -95,30 +95,33 @@ This assumes you have completed some basic learning in your language of choice.
 For example:
 
 ### Go/Golang
-	A Tour of Go        https://tour.golang.org/list
-	Exercism            https://exercism.org/tracks/go
-	Learning Go         https://www.amazon.com/dp/1492077216
-	Introducing Go      https://www.amazon.com/dp/1491941952
-  Programming with Google Go Specialization
-    https://www.coursera.org/specializations/google-golang
+
+	  A Tour of Go        https://tour.golang.org/list
+	  Exercism            https://exercism.org/tracks/go
+	  Learning Go         https://www.amazon.com/dp/1492077216
+	  Introducing Go      https://www.amazon.com/dp/1491941952
+    Programming with Google Go Specialization
+      https://www.coursera.org/specializations/google-golang
 
 
 ### Python
-  Learn to Program    http://www.alan-g.me.uk/l2p2/
-  A Byte of Python    https://python.swaroopch.com/
-  Exercism            https://exercism.org/tracks/python
-  Practical Programming: An Introduction to Computer Science Using Python 3
-    https://www.amazon.com/dp/1937785459
-  Python for Everybody Specialization
-    https://www.coursera.org/specializations/python
+
+    Learn to Program    http://www.alan-g.me.uk/l2p2/
+    A Byte of Python    https://python.swaroopch.com/
+    Exercism            https://exercism.org/tracks/python
+    Practical Programming: An Introduction to Computer Science Using Python 3
+      https://www.amazon.com/dp/1937785459
+    Python for Everybody Specialization
+      https://www.coursera.org/specializations/python
 
 
 ### C
-  Learn C             https://www.learn-c.org/
-  Exercism            https://exercism.org/tracks/c
-  C Tutorial          https://www.cprogramming.com/tutorial/c-tutorial.html
-  Learn C the Hard Way
-    https://www.amazon.com/dp/0321884922
-  Introductory C Programming Specialization
-    https://www.coursera.org/specializations/c-programming
+
+    Learn C             https://www.learn-c.org/
+    Exercism            https://exercism.org/tracks/c
+    C Tutorial          https://www.cprogramming.com/tutorial/c-tutorial.html
+    Learn C the Hard Way
+      https://www.amazon.com/dp/0321884922
+    Introductory C Programming Specialization
+      https://www.coursera.org/specializations/c-programming
 
