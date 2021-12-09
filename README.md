@@ -1,13 +1,5 @@
-# goPracticum
-Skill builders for learning conversational Golang.
-
-## Before you begin
-This assumes you have completed a little Go programming. For example:
-
-	A Tour of Go    https://tour.golang.org/list
-	Exercism        https://exercism.org/tracks/go
-	Learning Go     https://www.amazon.com/dp/1492077216
-	Introducing Go  https://www.amazon.com/dp/1491941952
+# Conversational Coding
+Skill builders to increase your native coding fluency.
 
 
 ## The Theory
@@ -55,7 +47,7 @@ Keep trying to run it; keep going until it works. If you get all the way
 through and still can't make it work, then look things up. But not until
 you give it your best effort.
 
-If you're really new to Go there will be a lot of room for improvement. 
+If you're really new to your language there will be a lot of room for improvement. 
 That's okay. Put on your "Big Coder" bloomers, accept the challenge, and study
 what you had to look up. Those challenges give you critical feedback, you 
 now know exactly what you need to practice more.
@@ -97,4 +89,34 @@ about 20% of the language. By focusing on that 20%, you learn faster and can
 produce good work faster.
 
 
+
+## Before you begin
+This assumes you have completed some basic learning in your language of choice.
+For example:
+
+### Go/Golang
+	A Tour of Go        https://tour.golang.org/list
+	Exercism            https://exercism.org/tracks/go
+	Learning Go         https://www.amazon.com/dp/1492077216
+	Introducing Go      https://www.amazon.com/dp/1491941952
+  Programming with Google Go Specialization
+                      https://www.coursera.org/specializations/google-golang
+
+### Python
+  Learn to Program    http://www.alan-g.me.uk/l2p2/
+  A Byte of Python    https://python.swaroopch.com/
+  Exercism            https://exercism.org/tracks/python
+  Practical Programming: An Introduction to Computer Science Using Python 3
+                      https://www.amazon.com/dp/1937785459
+  Python for Everybody Specialization
+                      https://www.coursera.org/specializations/python
+
+### C
+  Learn C             https://www.learn-c.org/
+  Exercism            https://exercism.org/tracks/c
+  C Tutorial          https://www.cprogramming.com/tutorial/c-tutorial.html
+  Learn C the Hard Way
+                      https://www.amazon.com/dp/0321884922
+  Introductory C Programming Specialization
+                      https://www.coursera.org/specializations/c-programming
 
