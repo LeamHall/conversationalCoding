@@ -2,9 +2,12 @@
 
 ## Before you begin
 
-This assumes you have read how to use databases with Go. For example:
+This assumes you know how to use databases with your language. For example:
 
 	https://golang.org/doc/tutorial/database-access
+  https://sqlite.org/quickstart.html
+  https://docs.python.org/3/library/sqlite3.html
+  https://metacpan.org/pod/DBD::SQLite
 
 There is a small SQLite database ( data/practicum.db ) in the repo. It contains one table, "stuff".
 There are a few string entries with a row name of "thing" that you can use for the practicum. 
@@ -12,18 +15,10 @@ However, if you prefer a different database type, or want your own data, feel fr
 These practices are for you.
 
 
-## Package structure
 
-Create a file called database.go.
+Create a file called database with your language extension.
 
-Import something for printing, the database standard library, and the driver for your database of choice.
-
-## Package Level Constructs
-
-Create a struct with a string based attribute.
-
-
-## Main
+Create a structure with a string based attribute.
 
 Create vars for the result sets and the data.
 
@@ -32,6 +27,4 @@ Create a connection to the database.
 - Set it to close.
 
 Pull a result, and print it.
-
-
 
