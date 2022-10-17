@@ -33,7 +33,6 @@ Define a function that takes a string, and returns "Hello " and the string.
 
 Define a method that returns the string from the structure.
 
-
 ### Simple variables
 
 Define a variable that uses the global string.
@@ -48,13 +47,13 @@ Write a loop that counts from 5 to 18.
 
 ### Composite types
 Define a variable of the global structure.
-  Assign a string to the string attribute
-  Call the method and print the string.
+  Assign a string to the string attribute of the structure
+  Call the method attached to the strucutre, and print the string.
 
 Make an slice/array/list of a few numbers.
   Write a loop that iterates over the slice and prints the number doubled.
 
-Using three people you know, make a hash/map with their name as the key, and 
+Using three people you know, make a hash/map/dict with their name as the key, and 
 describe the relationship as the value.
   Iterate over the map and print each key and value.
 
