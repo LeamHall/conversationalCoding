@@ -4,8 +4,8 @@
 
 This assumes you know how to use databases with your language. For example:
 
-	https://golang.org/doc/tutorial/database-access
   https://sqlite.org/quickstart.html
+  https://golang.org/doc/tutorial/database-access
   https://docs.python.org/3/library/sqlite3.html
   https://metacpan.org/pod/DBD::SQLite
 
