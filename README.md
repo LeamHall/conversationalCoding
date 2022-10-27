@@ -40,9 +40,13 @@ key skills into the sub-conscious in a week?
 
 ## The Method
 
+There are three directories: "Common", "Compiled", and "Interpreted". Start
+with the "Foundations.md" project relevant to your language type, and then
+later move to the other projects in your language type, and "Common".
+
 Start with Foundations. Create your file in a temp directory, and follow the 
-instructions. Do each task without referencing a Stack, IRC, or anything else.
-Just your mind; your skills. Do the entire exercise before correcting anything.
+instructions. Do each task without referencing Stack, IRC, or anything else.
+Just your mind and your skills. Do the entire exercise before correcting anything.
 Keep trying to run it; keep going until it works. If you get all the way
 through and still can't make it work, then look things up. But not until
 you give it your best effort.

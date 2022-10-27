@@ -48,7 +48,7 @@ Write a loop that counts from 5 to 18.
 ### Composite types
 Define a variable of the global structure.
   Assign a string to the string attribute of the structure
-  Call the method attached to the strucutre, and print the string.
+  Call the method attached to the structure, and print the string.
 
 Make an slice/array/list of a few numbers.
   Write a loop that iterates over the slice and prints the number doubled.
