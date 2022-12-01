@@ -25,20 +25,20 @@ Define a function that returns the string from the structure.
 
 ### Functions/Methods
 
+Define a function that takes a string, and returns "Hello " and the string.
 Define a function that takes an int and returns it doubled.
 Return an error if the int is 5.
 
-Define a function that takes a string, and returns "Hello " and the string.
+### Errors
 
+Using the function that doubles ints, pass in 5 and handle the error.
 
 ### Simple variables
 
 Define a string variable, and print it.
 
-### Errors
-Using the function that doubles ints, pass in 5 and handle the error.
-
 ### Blocks and iteration
+
 Write a loop that counts from 5 to 18.
   Have it print something funny at 7 and 17.
 
