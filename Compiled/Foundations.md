@@ -20,9 +20,9 @@ If you language requires it, import something for printing to STDOUT, and error 
 
 ### Variables and Types
 
-Define a structure (struct, class)  that has a string.
+Define a structure (struct, class) that has a string.
 
-Define a string outside of the main function.
+Define a string outside of the main scope.
 
 ### Functions and Methods
 
@@ -35,7 +35,7 @@ Define a method that returns the string from the structure.
 
 ### Simple variables
 
-Define a variable that uses the global string.
+Define a variable that uses the global scope string.
   Print the variable.
 
 ### Errors
@@ -46,16 +46,16 @@ Write a loop that counts from 5 to 18.
   Have it print something funny at 7 and 17.
 
 ### Composite types
-Define a variable of the global structure.
-  Assign a string to the string attribute of the structure
-  Call the method attached to the structure, and print the string.
+Define a struct, with a string field, in the global scope.
+  Assign something to the string attribute of the structure
+  Call a method attached to the structure, and print the string.
 
 Make an slice/array/list of a few numbers.
   Write a loop that iterates over the slice and prints the number doubled.
 
-Using three people you know, make a hash/map/dict with their name as the key, and 
-describe the relationship as the value.
-  Iterate over the map and print each key and value.
+Using three people you know, make a key-value store (kvs) with their name 
+  as the key, and describe the relationship as the value.
+  Iterate over the kvs and print each key and value.
 
 ### Wrap up
 
